@@ -1,8 +1,8 @@
 const url = 'https://api.quotable.io/random';
 var qoute;
 var author;
-var qoutetext =document.querySelector('.qoute'); 
-var authurtext =document.querySelector('.authur');
+var qoutetext =document.querySelector("#qoute"); 
+var authurtext =document.querySelector("#authur");
 async function fetchData(url) {
     const data= await fetch(url);
     const advicedata = await data.json();

@@ -31,8 +31,8 @@ const arr_qoute=["Friendship is but another name for an alliance with the follie
         qoutetext.innerHTML = randqoute;
      }
 
-     
-// //     // console.log(advicedata);  
+
+     // //     // console.log(advicedata);  
 // //     console.log(qoute);
 // //     console.log(author);
 // //     console.log(qoutetext)
@@ -45,3 +45,5 @@ const arr_qoute=["Friendship is but another name for an alliance with the follie
 // //         authurtext.innerHTML= advicedata.author;
 // //     }
 // // }
+
+
